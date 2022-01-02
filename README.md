@@ -1,5 +1,5 @@
-# Check Factorial
-A dumb algorithm in C# I came up with while falling asleep. Given an int, it checks if it's the factorial of another int. 
+# Inverse Factorial
+A dumb algorithm in C# I came up with while falling asleep. Given an int, it returns its inverse factorial.
 
 `IsFact(n)` will return `True` if there exists an `m` so that `m! = n`.
 
