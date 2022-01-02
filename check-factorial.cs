@@ -42,3 +42,4 @@ public class Factorial
 
 		return x * (div == 1 ? 1 : 0) - 1;
 	}
+}
