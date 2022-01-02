@@ -1,9 +1,9 @@
 # Inverse Factorial
 A dumb algorithm in C# I came up with while falling asleep. Given an int, it returns its inverse factorial.
 
-`IsFact(n)` will return `True` if there exists an `m` so that `m! = n`.
+`IsFact(n)` returns `True` if there exists an `m` so that `m! = n`.
 
-`InverseFact(n)` will instead return `m` itself if it exists. `-1` otherwise.
+`InverseFact(n)` returns `m` itself if it exists. `-1` otherwise.
 
 
 ## Time Complexity
